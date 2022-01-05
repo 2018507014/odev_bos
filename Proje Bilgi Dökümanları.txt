@@ -1,0 +1,6 @@
+Projenin Amacı:Mp3 Çalar Yapmak
+Projenin İşlevleri: Müzik Çal, Müzik Duraklat, Bir Sonraki Müziğe Geç, Bir Önceki Müziğe Dön, Müziği Duraklat
+Proje Takımı:
+2018507014 Vedat YENİCE
+2018507005 Hasan KAPLAN
+2018507029 Mahmut Salih Sert
